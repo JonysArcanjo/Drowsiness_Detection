@@ -10,6 +10,9 @@
 
 # Drowsiness Detection
 
+![CAPA Medium (2)](https://github.com/JonysArcanjo/Drowsiness_Detection/assets/48812740/793c9578-9d4d-47f7-b294-3952995da6e4)
+
+
 This project uses Python computer vision to monitor a user's eyes and detect signs of drowsiness. This technology has the potential to prevent accidents related to drowsiness, such as those that occur while driving.
 
 
