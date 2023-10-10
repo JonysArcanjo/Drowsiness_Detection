@@ -7,4 +7,4 @@ matplotlib
 scip
 streamlit==1.27.2
 seaborn==0.13.0
-libgl1-mesa-glx
+
