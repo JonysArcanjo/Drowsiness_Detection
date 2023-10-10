@@ -1,6 +1,9 @@
 dlib==19.24.2
 imutils==0.5.4
 playsound
-opencv-python
+pygame==2.5.2
+opencv-python==4.8.1.78  
 matplotlib
-scipy
+scip
+streamlit==1.27.2
+seaborn==0.13.0
