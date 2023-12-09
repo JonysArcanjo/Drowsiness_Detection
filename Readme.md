@@ -4,7 +4,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![Alt text for your video]([https://www.canva.com/design/DAF2gZLTfu8/vt6Fxg7lYEMrMD4q35Hkpw/watch?utm_content=DAF2gZLTfu8&utm_campaign=designshare&utm_medium=link&utm_source=editor)))
+[Assista ao Vídeo](https://www.canva.com/design/DAF2gSZamd8/m4PF97PTUsC4Fgj7-uvMAA/watch)
+
 
 
 
